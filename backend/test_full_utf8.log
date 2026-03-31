@@ -1,0 +1,72 @@
+﻿[dotenv@17.3.1] injecting env (4) from .env -- tip: ΓÜÖ∩╕Å  enable debug logging with { debug: true }
+Connected to DB
+Creating user: test1773072557259@example.com
+node : Test failed 
+with error: next is 
+not a function
+At line:1 char:14
++ cd backend ; node 
+test_register.js > 
+test_full.log 2>&1 ; 
+node -e "co ...
++              ~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~
+    + CategoryInfo     
+         : NotSpecifi  
+  ed: (Test failed w   
+ it... not a functi    
+on:String) [], Rem    
+oteException
+    + FullyQualifiedEr 
+   rorId : NativeComm  
+  andError
+ 
+Stack: TypeError: next 
+is not a function
+    at 
+model.<anonymous> (C:\U
+sers\Dell\OneDrive\Desk
+top\ai genrative curric
+ulum\backend\models\Use
+r.js:21:5)
+    at async 
+Kareem.execPre (C:\User
+s\Dell\OneDrive\Desktop
+\ai genrative curriculu
+m\backend\node_modules\
+kareem\index.js:70:24)
+    at async 
+model.$__save (C:\Users
+\Dell\OneDrive\Desktop\
+ai genrative curriculum
+\backend\node_modules\m
+ongoose\lib\model.js:37
+6:5)
+    at async 
+model.save (C:\Users\De
+ll\OneDrive\Desktop\ai 
+genrative curriculum\ba
+ckend\node_modules\mong
+oose\lib\model.js:642:5
+)
+    at async C:\Users\D
+ell\OneDrive\Desktop\ai
+ genrative curriculum\b
+ackend\node_modules\mon
+goose\lib\model.js:2778
+:9
+    at async 
+Promise.all (index 0)
+    at async 
+model.create (C:\Users\
+Dell\OneDrive\Desktop\a
+i genrative curriculum\
+backend\node_modules\mo
+ngoose\lib\model.js:276
+3:11)
+    at async test (C:\U
+sers\Dell\OneDrive\Desk
+top\ai genrative curric
+ulum\backend\test_regis
+ter.js:17:22)

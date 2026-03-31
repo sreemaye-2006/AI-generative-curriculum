@@ -1,0 +1,53 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../middleware"
+		},
+		{
+			"path": "../routes"
+		},
+		{
+			"path": "../utils"
+		},
+		{
+			"path": "../../frontend"
+		},
+		{
+			"path": "../../frontend-app"
+		},
+		{
+			"path": "../../frontend-app/dist"
+		},
+		{
+			"path": "../../frontend-app/node_modules"
+		},
+		{
+			"path": "../models"
+		},
+		{
+			"path": "../../frontend-app/src"
+		},
+		{
+			"path": "../node_modules"
+		},
+		{
+			"path": "../../frontend-app/src/components"
+		},
+		{
+			"path": "../../frontend-app/src/hooks"
+		},
+		{
+			"path": "../../frontend-app/src/pages"
+		},
+		{
+			"path": "../../frontend-app/src/services"
+		}
+	],
+	"settings": {}
+}
